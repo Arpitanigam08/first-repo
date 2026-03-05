@@ -1,3 +1,3 @@
 # first-repo
-This is my first git repository . 
-by arpitanigam 
+This is my first git repository . <br>
+Author- Arpita Nigam .
